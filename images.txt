@@ -1,1 +1,1 @@
-codegentoolbox/laftools-linux-x64
+moelin/1panel
